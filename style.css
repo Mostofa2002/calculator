@@ -1,0 +1,35 @@
+body
+{
+ background:#85C1E9;
+} 
+*{
+box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+}
+.wrap{
+width: 400px;
+height: auto;
+margin: auto;
+background-color: #6495ED;
+padding: 15px;
+}
+input[type=text]{
+    width:100% ;
+    padding: 10px;
+    margin-top: 20px;
+    font: size 22px; ;
+    font-weight:bold ;
+    border: radius 5px; ;
+
+}
+
+input[type=button]
+{
+    width:89px ;
+    padding: 10px;
+    font: size 22px; ;
+    font-weight:bold ;
+    border: radius 5px;
+
+}
